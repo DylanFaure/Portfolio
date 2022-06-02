@@ -1,0 +1,144 @@
+.Footer {
+	/* background: linear-gradient(-90deg, rgb(66, 66, 66), black, rgb(66, 66, 66), black, rgb(66, 66, 66)); */
+    background-color: gray;
+	background-size: 500% 130%;
+	animation: Gradient 40s ease infinite;
+	width: 100%;
+	height: 18vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.Footer-container {
+    padding: 20px;
+}
+
+.Footer-container h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+    margin-top: 30px;
+    color: whitesmoke;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 2px;
+}
+
+.Footer-buttonUp {
+    background: linear-gradient(70deg, rgb(100, 100, 100), #000000);
+    display: block;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    border: none;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 1px;
+    margin-top: 20px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    transition: 300ms;
+}
+
+.Footer-buttonUp:hover {
+    transform: scale(1.1);
+    color: white;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.55);
+}
+
+@media (max-width: 769px) {
+    .Footer-container h1 {
+        font-size: 40px;
+    }
+}
+
+a {
+	color: whitesmoke;
+	font-size: 25px;
+	font-weight: bold;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+	letter-spacing: 1px;
+}
+
+.Footer-Col {
+    text-align: center;
+}
+
+.Footer-Desc {
+    color: whitesmoke;
+    padding-top: 10px;
+}
+
+.Footer-Btn-Github {
+    font-size: 24px;
+    width: 200px;
+    background-color: grey;
+}
+
+/* ======================== */
+
+social-container, .flex-center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+social-container {
+	background-color: #ffffff;
+	background-image: linear-gradient(315deg, #ffffff 0%, #d7e1ec 74%);
+}
+
+.social-links {
+	display: flex;
+}
+
+.social-btn {
+	cursor: pointer;
+	height: 100px;
+	width: 100px;
+	font-family: 'Titillium Web', sans-serif;
+	color: #333;
+	border-radius: 10px;
+	box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
+	background: white;
+	margin: 5px;
+	transition: 1s;
+}
+
+.social-btn span {
+	width: 0px;
+	overflow: hidden;
+	transition: 1s;
+	text-align: center;
+}
+
+.social-btn:hover {
+	width: 400px;
+	border-radius: 5px;
+}
+
+.social-btn:hover span {
+	padding: 2px;
+	width: max-content;
+}
+
+#email svg {
+    fill: #0072C6;
+}
+
+#itchio svg {
+	fill: #f72347;
+}
+
+#linkedin svg {
+	fill: #0e76a8;
+}
+
+#github {
+	fill: #333;
+}
