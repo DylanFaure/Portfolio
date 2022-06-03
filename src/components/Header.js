@@ -18,16 +18,18 @@ function Header() {
     }, [isShrunk]);
 
     return (
-        <div className={`${isShrunk ? 'Header' : ''}`}>
-            <div className="Header-container">
-                <Navbar />
-                <div className="Header-description">
-                    <h3 className="Header-description-title">
-                        Dylan FAURE
-                    </h3>
+        <>
+            <div className={`${isShrunk ? 'Header' : ''}`}>
+                <div className="Header-container">
+                    <Navbar />
+                    <div className="Header-description">
+                        <h3 className="Header-description-title">
+                            Dylan FAURE
+                        </h3>
+                    </div>
                 </div>
             </div>
-        </div>
+        </>
     );
 }
 

@@ -28,6 +28,7 @@ function Home() {
                         iconStyle={{ background: '#0073FF', color: '#fff' }}
                         icon={<GiSouthKorea />}
                     >
+                        <p className="Formation-Information-btn"><button>Unity</button><button>Unreal Engine</button><button>Blender</button><button>Multi-language</button></p>
                         <h3 className="vertical-timeline-element-title">International Student</h3>
                         <h4 className="vertical-timeline-element-subtitle">Keimyung, Daegu, South-Korea</h4>
                         <p>International year, learning game development</p><br />
@@ -61,6 +62,7 @@ function Home() {
                         iconStyle={{ background: 'grey', color: '#fff' }}
                         icon={<MdWork />}
                     >
+                        <p className="Formation-Information-btn"><button>PHP</button><button>Javascript</button></p>
                         <h3 className="vertical-timeline-element-title">Web Developer</h3>
                         <h4 className="vertical-timeline-element-subtitle">PM-SA Internship, Paris, France</h4>
                         <p>
@@ -74,10 +76,11 @@ function Home() {
                         iconStyle={{ background: 'green', color: '#fff' }}
                         icon={<MdWork />}
                     >
+                        <p className="Formation-Information-btn"><button>PHP</button><button>Laravel</button><button>Figma</button></p>
                         <h3 className="vertical-timeline-element-title">Web Developer</h3>
                         <h4 className="vertical-timeline-element-subtitle">ANDALOUS Internship, Montsoult, France</h4>
                         <p>
-                            ANDALOUS in a society working in the agri-food sector.
+                            ANDALOUS is a society working in the agri-food sector.
                         </p><br />
                     </VerticalTimelineElement>
                     <VerticalTimelineElement
@@ -87,6 +90,7 @@ function Home() {
                         iconStyle={{ background: 'red', color: '#fff' }}
                         icon={<IoSchool />}
                     >
+                        <p className="Formation-Information-btn"><button>C</button><button>C++</button><button>ReactJS</button><button>Multi-language</button></p>
                         <h3 className="vertical-timeline-element-title">BAC +5, Expert in Information Technologies</h3>
                         <h4 className="vertical-timeline-element-subtitle">Epitech, Le Kremlin-Bicêtre, France</h4>
                         <p>
@@ -122,6 +126,7 @@ function Home() {
                         iconStyle={{ background: 'orange', color: '#fff' }}
                         icon={<FaSchool />}
                     >
+                        <p className="Formation-Information-btn"><button>Python</button><button>HTML5</button><button>CSS3</button></p>
                         <h3 className="vertical-timeline-element-title">Bachelor of Engineering Science</h3>
                         <h5 className="vertical-timeline-element-subtitle">Lycée les pierres vives, Achères, France</h5>
                         <p>
