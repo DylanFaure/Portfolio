@@ -104,7 +104,7 @@ function GameDevelopment() {
                         </a>
                     </div>
                     <div className="GameDevelopment-Section-Right">
-                        <ReactPlayer width={"800px"} height={"450px"} url='https://youtu.be/Uobo1qceacg' />
+                        <ReactPlayer width={"800px"} height={"450px"} url='https://youtu.be/DfTdSSzIfOQ' />
                     </div>
                 </div>
 
@@ -143,8 +143,7 @@ function GameDevelopment() {
                         </a>
                     </div>
                     <div className="GameDevelopment-Section-Right">
-                        <img alt='TheGreatParty-Miniature' width={"800px"} height={"450px"} src='./assets/TheGreatParty-Miniature.png' />
-                        {/* <ReactPlayer width={"800px"} height={"450px"} url='https://youtu.be/lEb6aZycXWU' /> */}
+                        <ReactPlayer width={"800px"} height={"450px"} url='https://youtu.be/Sg3cKoGYJwQ' />
                     </div>
                 </div>
 
@@ -184,7 +183,7 @@ function GameDevelopment() {
                         </a>
                     </div>
                     <div className="GameDevelopment-Section-Right">
-                        <ReactPlayer width={"800px"} height={"450px"} url='https://youtu.be/Uobo1qceacg' />
+                        <ReactPlayer width={"800px"} height={"450px"} url='https://youtu.be/aDRwfR_ZmiI' />
                     </div>
                 </div>
 
