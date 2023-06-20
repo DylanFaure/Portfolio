@@ -10,7 +10,7 @@ createRoot(rootElement).render(
   <BrowserRouter>
     <Routes>
       {/* All available routes. If you need to add new route(s), put it in the Routes component */}
-      <Route path="/" element={<Home />} />
+      <Route path="/Portfolio" element={<Home />} />
       <Route path="/game-development" element={<GameDevelopment />} />
       <Route
         path="*"
