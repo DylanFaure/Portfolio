@@ -40,14 +40,14 @@ function GameDevelopment() {
                         </div><br /><br />
                         
                         <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/MagicPeak"} target={"_blank"}>
-                            <button class="blob-btn blob-btn-Github">
+                            <button className="blob-btn blob-btn-Github">
                                 <AiFillGithub size={25} /> Github Repository
-                                <span class="blob-btn__inner">
-                                    <span class="blob-btn__blobs">
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
+                                <span className="blob-btn__inner">
+                                    <span className="blob-btn__blobs">
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
                                     </span>
                                 </span>
                             </button>
@@ -81,14 +81,14 @@ function GameDevelopment() {
                         </div><br /><br />
                         
                         <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/XY"} target={"_blank"}>
-                            <button class="blob-btn blob-btn-Github">
+                            <button className="blob-btn blob-btn-Github">
                                 <AiFillGithub size={25} /> Github Repository
-                                <span class="blob-btn__inner">
-                                    <span class="blob-btn__blobs">
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
+                                <span className="blob-btn__inner">
+                                    <span className="blob-btn__blobs">
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
                                     </span>
                                 </span>
                             </button>
@@ -120,14 +120,14 @@ function GameDevelopment() {
                         </div><br /><br />
                         
                         <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/XY"} target={"_blank"}>
-                            <button class="blob-btn blob-btn-Github">
+                            <button className="blob-btn blob-btn-Github">
                                 <AiFillGithub size={25} /> Github Repository
-                                <span class="blob-btn__inner">
-                                    <span class="blob-btn__blobs">
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
+                                <span className="blob-btn__inner">
+                                    <span className="blob-btn__blobs">
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
                                     </span>
                                 </span>
                             </button>
@@ -160,14 +160,14 @@ function GameDevelopment() {
                         </div><br /><br />
                         
                         <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/XY"} target={"_blank"}>
-                            <button class="blob-btn blob-btn-Github">
+                            <button className="blob-btn blob-btn-Github">
                                 <AiFillGithub size={25} /> Github Repository
-                                <span class="blob-btn__inner">
-                                    <span class="blob-btn__blobs">
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
+                                <span className="blob-btn__inner">
+                                    <span className="blob-btn__blobs">
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
                                     </span>
                                 </span>
                             </button>
@@ -199,14 +199,14 @@ function GameDevelopment() {
                         </div><br /><br />
                         
                         <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/XY"} target={"_blank"}>
-                            <button class="blob-btn blob-btn-Github">
+                            <button className="blob-btn blob-btn-Github">
                                 <AiFillGithub size={25} /> Github Repository
-                                <span class="blob-btn__inner">
-                                    <span class="blob-btn__blobs">
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
+                                <span className="blob-btn__inner">
+                                    <span className="blob-btn__blobs">
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
                                     </span>
                                 </span>
                             </button>
@@ -241,14 +241,14 @@ function GameDevelopment() {
                         </div><br /><br />
                         
                         <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/XY"} target={"_blank"}>
-                            <button class="blob-btn blob-btn-Github">
+                            <button className="blob-btn blob-btn-Github">
                                 <AiFillGithub size={25} /> Github Repository
-                                <span class="blob-btn__inner">
-                                    <span class="blob-btn__blobs">
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
+                                <span className="blob-btn__inner">
+                                    <span className="blob-btn__blobs">
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
                                     </span>
                                 </span>
                             </button>
@@ -281,14 +281,14 @@ function GameDevelopment() {
                         </div><br /><br />
                         
                         <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/XY"} target={"_blank"}>
-                            <button class="blob-btn blob-btn-Github">
+                            <button className="blob-btn blob-btn-Github">
                                 <AiFillGithub size={25} /> Github Repository
-                                <span class="blob-btn__inner">
-                                    <span class="blob-btn__blobs">
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
+                                <span className="blob-btn__inner">
+                                    <span className="blob-btn__blobs">
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
                                     </span>
                                 </span>
                             </button>
@@ -322,14 +322,14 @@ function GameDevelopment() {
                         </div><br /><br />
                         
                         <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/XY"} target={"_blank"}>
-                            <button class="blob-btn blob-btn-Github">
+                            <button className="blob-btn blob-btn-Github">
                                 <AiFillGithub size={25} /> Github Repository
-                                <span class="blob-btn__inner">
-                                    <span class="blob-btn__blobs">
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
+                                <span className="blob-btn__inner">
+                                    <span className="blob-btn__blobs">
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
                                     </span>
                                 </span>
                             </button>
@@ -363,14 +363,14 @@ function GameDevelopment() {
                         </div><br /><br />
                         
                         <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/XY"} target={"_blank"}>
-                            <button class="blob-btn blob-btn-Github">
+                            <button className="blob-btn blob-btn-Github">
                                 <AiFillGithub size={25} /> Github Repository
-                                <span class="blob-btn__inner">
-                                    <span class="blob-btn__blobs">
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Github"></span>
+                                <span className="blob-btn__inner">
+                                    <span className="blob-btn__blobs">
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
                                     </span>
                                 </span>
                             </button>

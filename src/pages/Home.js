@@ -41,14 +41,14 @@ function Home() {
                             </ul>
                         </p><br />
                         <a rel="noopener noreferrer" href={"https://www.kmu.ac.kr/uni/eng/main.jsp"} target={"_blank"}>
-                            <button class="blob-btn blob-btn-Keimyung">
+                            <button className="blob-btn blob-btn-Keimyung">
                                 <CgWebsite size={25} /> Website
-                                <span class="blob-btn__inner">
-                                    <span class="blob-btn__blobs">
-                                        <span class="blob-btn__blob blob-btn__blob-Keimyung"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Keimyung"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Keimyung"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Keimyung"></span>
+                                <span className="blob-btn__inner">
+                                    <span className="blob-btn__blobs">
+                                        <span className="blob-btn__blob blob-btn__blob-Keimyung"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Keimyung"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Keimyung"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Keimyung"></span>
                                     </span>
                                 </span>
                             </button>
@@ -120,14 +120,14 @@ function Home() {
                             </ul>
                         </p><br />
                         <a rel="noopener noreferrer" href={"https://www.epitech.eu/"} target={"_blank"}>
-                            <button class="blob-btn blob-btn-Epitech">
+                            <button className="blob-btn blob-btn-Epitech">
                                 <CgWebsite size={25} /> Website
-                                <span class="blob-btn__inner">
-                                    <span class="blob-btn__blobs">
-                                        <span class="blob-btn__blob blob-btn__blob-Epitech"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Epitech"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Epitech"></span>
-                                        <span class="blob-btn__blob blob-btn__blob-Epitech"></span>
+                                <span className="blob-btn__inner">
+                                    <span className="blob-btn__blobs">
+                                        <span className="blob-btn__blob blob-btn__blob-Epitech"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Epitech"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Epitech"></span>
+                                        <span className="blob-btn__blob blob-btn__blob-Epitech"></span>
                                     </span>
                                 </span>
                             </button>
