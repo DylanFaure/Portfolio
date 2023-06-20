@@ -28,10 +28,18 @@ function Home() {
                         iconStyle={{ background: '#0073FF', color: '#fff' }}
                         icon={<GiSouthKorea />}
                     >
-                        <p className="Formation-Information-btn"><button>Unity</button><button>Unreal Engine</button><button>Blender</button><button>Multi-language</button></p>
+                        <p className="Formation-Information-btn"><button>Unity</button><button>Unreal Engine</button><button>Maya</button><button>C#</button></p>
                         <h3 className="vertical-timeline-element-title">International Student</h3>
                         <h4 className="vertical-timeline-element-subtitle">Keimyung, Daegu, South-Korea</h4>
-                        <p>International year, learning game development</p><br />
+                        <p>Following various courses on video game development:
+                            <ul>
+                                <li>3D modeling</li>
+                                <li>Artificial Intelligence</li>
+                                <li>Virtual Reality and Augmented Reality</li>
+                                <li>Game projects</li>
+                                <li>2D and 3D game development</li>
+                            </ul>
+                        </p><br />
                         <a rel="noopener noreferrer" href={"https://www.kmu.ac.kr/uni/eng/main.jsp"} target={"_blank"}>
                             <button class="blob-btn blob-btn-Keimyung">
                                 <CgWebsite size={25} /> Website
@@ -62,11 +70,15 @@ function Home() {
                         iconStyle={{ background: 'grey', color: '#fff' }}
                         icon={<MdWork />}
                     >
-                        <p className="Formation-Information-btn"><button>PHP</button><button>Javascript</button></p>
+                        <p className="Formation-Information-btn"><button>PHP</button><button>SQL</button><button>Javascript</button><button>Notion</button></p>
                         <h3 className="vertical-timeline-element-title">Web Developer</h3>
                         <h4 className="vertical-timeline-element-subtitle">PM-SA Internship, Paris, France</h4>
                         <p>
-                            PM SA is specializes in the production of feature films, TV dramas, animated films, and documentaries.
+                            <i>PM SA is specializes in the production of feature films, TV dramas, animated films, and documentaries.</i><br /><br />
+                            What I did during my internship:
+                            <ul>
+                                <li>Maintenance and development of the company's various applications.</li>
+                            </ul>
                         </p><br />
                     </VerticalTimelineElement>
                     <VerticalTimelineElement
@@ -76,11 +88,15 @@ function Home() {
                         iconStyle={{ background: 'green', color: '#fff' }}
                         icon={<MdWork />}
                     >
-                        <p className="Formation-Information-btn"><button>PHP</button><button>Laravel</button><button>Figma</button></p>
+                        <p className="Formation-Information-btn"><button>PHP</button><button>Vue.js</button><button>Laravel</button><button>Figma</button><button>Trello</button></p>
                         <h3 className="vertical-timeline-element-title">Web Developer</h3>
                         <h4 className="vertical-timeline-element-subtitle">ANDALOUS Internship, Montsoult, France</h4>
                         <p>
-                            ANDALOUS is a society working in the agri-food sector.
+                            <i>ANDALOUS is a society working in the agri-food sector.</i><br /><br />
+                            What I did during my internship:
+                            <ul>
+                                <li>Creating the company's website within the digital team.</li>
+                            </ul>
                         </p><br />
                     </VerticalTimelineElement>
                     <VerticalTimelineElement
@@ -90,11 +106,18 @@ function Home() {
                         iconStyle={{ background: 'red', color: '#fff' }}
                         icon={<IoSchool />}
                     >
-                        <p className="Formation-Information-btn"><button>C</button><button>C++</button><button>ReactJS</button><button>Multi-language</button></p>
+                        <p className="Formation-Information-btn"><button>C</button><button>C++</button><button>Multi-language</button></p>
                         <h3 className="vertical-timeline-element-title">BAC +5, Expert in Information Technologies</h3>
                         <h4 className="vertical-timeline-element-subtitle">Epitech, Le Kremlin-Bicêtre, France</h4>
                         <p>
-                            Realization of individual and group projects (which can range from 4 to 6 people)
+                            Completion of projects individually or in groups in various sectors such as:
+                            <ul>
+                                <li>Artificial Intelligence</li>
+                                <li>Video Games</li>
+                                <li>DevOps</li>
+                                <li>Web</li>
+                                <li>Cybersecurity</li>
+                            </ul>
                         </p><br />
                         <a rel="noopener noreferrer" href={"https://www.epitech.eu/"} target={"_blank"}>
                             <button class="blob-btn blob-btn-Epitech">
@@ -130,13 +153,14 @@ function Home() {
                         <h3 className="vertical-timeline-element-title">Bachelor of Engineering Science</h3>
                         <h5 className="vertical-timeline-element-subtitle">Lycée les pierres vives, Achères, France</h5>
                         <p>
-                            Activities and Societies: Film club<br /><br />
+                            Discovering programming while creating my very first games using the EduPython software.<br /><br />
                             BAC S-SI (Engineering Science)<br />
                             ISN option (Computer science and digital sciences)<br />
+                            Activities and Societies: Film club<br />
                         </p><br />
                     </VerticalTimelineElement>
-                    </VerticalTimeline>
-                </div>
+                </VerticalTimeline>
+            </div>
             <Footer />
         </>
     );

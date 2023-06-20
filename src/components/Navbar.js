@@ -31,7 +31,7 @@ function Navbar() {
                     Game Development
                 </Link>
                 }
-                {
+                {/* {
                 location.pathname === "/contact" ?
                 <Link to="/contact" className="Header-link-active">
                     Contact
@@ -40,7 +40,7 @@ function Navbar() {
                 <Link to="/contact" className="Header-link">
                     Contact
                 </Link>
-                }
+                } */}
             </nav>
         </header>
     )

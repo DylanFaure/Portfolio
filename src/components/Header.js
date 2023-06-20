@@ -24,7 +24,7 @@ function Header() {
                     <Navbar />
                     <div className="Header-description">
                         <h3 className="Header-description-title">
-                            Dylan FAURE
+                            <br />Dylan FAURE
                         </h3>
                     </div>
                 </div>
