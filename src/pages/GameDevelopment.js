@@ -80,7 +80,7 @@ function GameDevelopment() {
                         the way.
                         </div><br /><br />
                         
-                        <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/XY"} target={"_blank"}>
+                        <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/CirclesOfHell"} target={"_blank"}>
                             <button className="blob-btn blob-btn-Github">
                                 <AiFillGithub size={25} /> Github Repository
                                 <span className="blob-btn__inner">
@@ -119,7 +119,7 @@ function GameDevelopment() {
                         It features 4 themed mini-games: racing, color, timing, and shooting.
                         </div><br /><br />
                         
-                        <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/XY"} target={"_blank"}>
+                        <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/TheGreatParty"} target={"_blank"}>
                             <button className="blob-btn blob-btn-Github">
                                 <AiFillGithub size={25} /> Github Repository
                                 <span className="blob-btn__inner">
@@ -159,7 +159,7 @@ function GameDevelopment() {
                         It appears to be different than a human...
                         </div><br /><br />
                         
-                        <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/XY"} target={"_blank"}>
+                        <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/JeonjaKape"} target={"_blank"}>
                             <button className="blob-btn blob-btn-Github">
                                 <AiFillGithub size={25} /> Github Repository
                                 <span className="blob-btn__inner">
@@ -198,7 +198,7 @@ function GameDevelopment() {
                         It also includes a hardcore mode where the player loses their abilities gained from racing when they die.
                         </div><br /><br />
                         
-                        <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/XY"} target={"_blank"}>
+                        <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/UnlockQuest"} target={"_blank"}>
                             <button className="blob-btn blob-btn-Github">
                                 <AiFillGithub size={25} /> Github Repository
                                 <span className="blob-btn__inner">
@@ -240,7 +240,7 @@ function GameDevelopment() {
                         next shot power, slow down the opponent's power, and also freeze the opponent.
                         </div><br /><br />
                         
-                        <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/XY"} target={"_blank"}>
+                        <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/FootTime"} target={"_blank"}>
                             <button className="blob-btn blob-btn-Github">
                                 <AiFillGithub size={25} /> Github Repository
                                 <span className="blob-btn__inner">
@@ -280,7 +280,7 @@ function GameDevelopment() {
                         Depending on the levels, the boss will use spells of varying strength.
                         </div><br /><br />
                         
-                        <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/XY"} target={"_blank"}>
+                        <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/BORK"} target={"_blank"}>
                             <button className="blob-btn blob-btn-Github">
                                 <AiFillGithub size={25} /> Github Repository
                                 <span className="blob-btn__inner">
@@ -321,7 +321,7 @@ function GameDevelopment() {
                         But CARE!!! Camera player gonna try to make you move out of the camera and die!
                         </div><br /><br />
                         
-                        <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/XY"} target={"_blank"}>
+                        <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/ShadownLight"} target={"_blank"}>
                             <button className="blob-btn blob-btn-Github">
                                 <AiFillGithub size={25} /> Github Repository
                                 <span className="blob-btn__inner">
