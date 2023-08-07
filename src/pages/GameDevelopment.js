@@ -10,6 +10,7 @@ import "../styles/GameDevelopment.scss";
 import 'react-vertical-timeline-component/style.min.css';
 
 import { AiFillGithub } from 'react-icons/ai';
+import { FaItchIo } from 'react-icons/fa';
 
 function GameDevelopment() {
     return (
@@ -119,9 +120,9 @@ function GameDevelopment() {
                         It features 4 themed mini-games: racing, color, timing, and shooting.
                         </div><br /><br />
                         
-                        <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/TheGreatParty"} target={"_blank"}>
+                        <a rel="noopener noreferrer" href={"https://faure78.itch.io/thegreatparty"} target={"_blank"}>
                             <button className="blob-btn blob-btn-Github">
-                                <AiFillGithub size={25} /> Github Repository
+                                <FaItchIo size={25} /> Itch.io
                                 <span className="blob-btn__inner">
                                     <span className="blob-btn__blobs">
                                         <span className="blob-btn__blob blob-btn__blob-Github"></span>
@@ -198,9 +199,9 @@ function GameDevelopment() {
                         It also includes a hardcore mode where the player loses their abilities gained from racing when they die.
                         </div><br /><br />
                         
-                        <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/UnlockQuest"} target={"_blank"}>
+                        <a rel="noopener noreferrer" href={"https://faure78.itch.io/unlockquest"} target={"_blank"}>
                             <button className="blob-btn blob-btn-Github">
-                                <AiFillGithub size={25} /> Github Repository
+                                <FaItchIo size={25} /> Itch.io
                                 <span className="blob-btn__inner">
                                     <span className="blob-btn__blobs">
                                         <span className="blob-btn__blob blob-btn__blob-Github"></span>
@@ -321,9 +322,9 @@ function GameDevelopment() {
                         But CARE!!! Camera player gonna try to make you move out of the camera and die!
                         </div><br /><br />
                         
-                        <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/ShadownLight"} target={"_blank"}>
+                        <a rel="noopener noreferrer" href={"https://faure78.itch.io/shadownlight"} target={"_blank"}>
                             <button className="blob-btn blob-btn-Github">
-                                <AiFillGithub size={25} /> Github Repository
+                                <FaItchIo size={25} /> Itch.io
                                 <span className="blob-btn__inner">
                                     <span className="blob-btn__blobs">
                                         <span className="blob-btn__blob blob-btn__blob-Github"></span>
