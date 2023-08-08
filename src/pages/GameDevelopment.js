@@ -160,7 +160,7 @@ function GameDevelopment() {
                         It appears to be different than a human...
                         </div><br /><br />
                         
-                        <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/JeonjaKape"} target={"_blank"}>
+                        {/* <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/JeonjaKape"} target={"_blank"}>
                             <button className="blob-btn blob-btn-Github">
                                 <AiFillGithub size={25} /> Github Repository
                                 <span className="blob-btn__inner">
@@ -181,7 +181,7 @@ function GameDevelopment() {
                                 </filter>
                             </defs>
                             </svg>
-                        </a>
+                        </a> */}
                     </div>
                     <div className="GameDevelopment-Section-Right">
                         <ReactPlayer width={"800px"} height={"450px"} url='https://youtu.be/aDRwfR_ZmiI' />
@@ -241,7 +241,7 @@ function GameDevelopment() {
                         next shot power, slow down the opponent's power, and also freeze the opponent.
                         </div><br /><br />
                         
-                        <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/FootTime"} target={"_blank"}>
+                        {/* <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/FootTime"} target={"_blank"}>
                             <button className="blob-btn blob-btn-Github">
                                 <AiFillGithub size={25} /> Github Repository
                                 <span className="blob-btn__inner">
@@ -262,7 +262,7 @@ function GameDevelopment() {
                                 </filter>
                             </defs>
                             </svg>
-                        </a>
+                        </a> */}
                     </div>
                     <div className="GameDevelopment-Section-Right">
                         <ReactPlayer width={"800px"} height={"450px"} url='https://youtu.be/tvkaSYjRs8g' />
