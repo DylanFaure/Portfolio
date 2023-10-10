@@ -358,8 +358,8 @@ function GameDevelopment() {
                         <div className="GameDevelopment-Section-Content">I worked on this project during my study year at 
                         Keimyung University.<br />
                         This game is an Escape Game using Virtual Reality made with Unity.<br /><br />
-                        The goal of this game is to leave each room by solving the different puzzles<br />
-                        This game is a single player game and is inspired by the anime named X&Y.
+                        This game is a single player game inspired by the anime named X&Y and the goal is to leave<br />
+                        each room by solving the different puzzles.
                         </div><br /><br />
                         
                         <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/XY"} target={"_blank"}>
