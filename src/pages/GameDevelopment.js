@@ -355,12 +355,11 @@ function GameDevelopment() {
                 <div className="GameDevelopment-Section XY">
                     <div className="GameDevelopment-Section-Left">
                         <div className="GameDevelopment-Section-Title">XY</div><br />
-                        <div className="GameDevelopment-Section-Content">I developed this game during my studies at Epitech.<br />
-                        This is a 2D game made with unity in two day for a Jam.<br /><br />
-                        We follow the theme "duality" and create a 2 players game.<br />
-                        This game is online. One player is the Light (the player in the game) and the other one control the camera.<br />
-                        The goal of the light is to go to top left, top right, bottom left and bottom right to pick pieces and win.<br />
-                        But CARE!!! Camera player gonna try to make you move out of the camera and die!
+                        <div className="GameDevelopment-Section-Content">I worked on this project during my study year at 
+                        Keimyung University.<br />
+                        This game is an Escape Game using Virtual Reality made with Unity.<br /><br />
+                        The goal of this game is to leave each room by solving the different puzzles<br />
+                        This game is a single player game and is inspired by the anime named X&Y.
                         </div><br /><br />
                         
                         <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/XY"} target={"_blank"}>
