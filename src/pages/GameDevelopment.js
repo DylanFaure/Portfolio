@@ -64,7 +64,7 @@ function GameDevelopment() {
                         </a>
                     </div>
                     <div className="GameDevelopment-Section-Right">
-                        <ReactPlayer width={"800px"} height={"450px"} url='https://youtu.be/Uobo1qceacg' />
+                        <ReactPlayer width={"800px"} height={"450px"} url='https://youtu.be/aDRwfR_ZmiI' />
                     </div>
                 </div>
 
@@ -184,7 +184,7 @@ function GameDevelopment() {
                         </a> */}
                     </div>
                     <div className="GameDevelopment-Section-Right">
-                        <ReactPlayer width={"800px"} height={"450px"} url='https://youtu.be/aDRwfR_ZmiI' />
+                        <ReactPlayer width={"800px"} height={"450px"} url='https://youtu.be/Uobo1qceacg' />
                     </div>
                 </div>
 
