@@ -26,49 +26,6 @@ function GameDevelopment() {
                 </div>
 
 
-                {/*   MagicPeak  */}
-                <div className="GameDevelopment-Section MagicPeak">
-                    <div className="GameDevelopment-Section-Left">
-                        <div className="GameDevelopment-Section-Title">MagicPeak</div><br />
-                        <div className="GameDevelopment-Section-Content">I developed this game during my study year at Keimyung University.<br />
-                        This game is a fusion of a Gacha game and a 2D RPG.<br /><br />
-                        In this game, the player takes on the role of a guild leader whose objective is to fight the monsters within 
-                        a tower to prevent them from attacking humans.<br />
-                        In order to do so, the player will have the ability to recruit mages of varying rarity and power to send them 
-                        into battle within the tower.<br />
-                        The player will then need to control their different characters and attempt to complete the dungeon or exit with 
-                        a maximum amount of gold to recruit more powerful characters.
-                        </div><br /><br />
-                        
-                        <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/MagicPeak"} target={"_blank"}>
-                            <button className="blob-btn blob-btn-Github">
-                                <AiFillGithub size={25} /> Github Repository
-                                <span className="blob-btn__inner">
-                                    <span className="blob-btn__blobs">
-                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
-                                    </span>
-                                </span>
-                            </button>
-                            <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style={{ display: "none" }}>
-                            <defs>
-                                <filter id="goo">
-                                <feGaussianBlur in="SourceGraphic" result="blur" stdDeviation="10"></feGaussianBlur>
-                                <feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 21 -7" result="goo"></feColorMatrix>
-                                <feBlend in2="goo" in="SourceGraphic" result="mix"></feBlend>
-                                </filter>
-                            </defs>
-                            </svg>
-                        </a>
-                    </div>
-                    <div className="GameDevelopment-Section-Right">
-                        <ReactPlayer width={"800px"} height={"450px"} url='https://youtu.be/aDRwfR_ZmiI' />
-                    </div>
-                </div>
-
-
                 {/*   CirclesOfHell  */}
                 <div className="GameDevelopment-Section CirclesOfHell">
                     <div className="GameDevelopment-Section-Left">
@@ -106,45 +63,6 @@ function GameDevelopment() {
                     </div>
                     <div className="GameDevelopment-Section-Right">
                         <ReactPlayer width={"800px"} height={"450px"} url='https://youtu.be/DfTdSSzIfOQ' />
-                    </div>
-                </div>
-
-
-                {/*   TheGreatParty  */}
-                <div className="GameDevelopment-Section TheGreatParty">
-                    <div className="GameDevelopment-Section-Left">
-                        <div className="GameDevelopment-Section-Title">TheGreatParty</div><br />
-                        <div className="GameDevelopment-Section-Content">I developed this game during my studies at Epitech as part of a 
-                        Maker Project.<br /><br />
-                        This game is a 2D multiplayer party game inspired by Pico Park game for designs, that consists of several mini-games in which players compete to win.<br />
-                        It features 4 themed mini-games: racing, color, timing, and shooting.
-                        </div><br /><br />
-                        
-                        <a rel="noopener noreferrer" href={"https://faure78.itch.io/thegreatparty"} target={"_blank"}>
-                            <button className="blob-btn blob-btn-Github">
-                                <FaItchIo size={25} /> Itch.io
-                                <span className="blob-btn__inner">
-                                    <span className="blob-btn__blobs">
-                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
-                                        <span className="blob-btn__blob blob-btn__blob-Github"></span>
-                                    </span>
-                                </span>
-                            </button>
-                            <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style={{ display: "none" }}>
-                            <defs>
-                                <filter id="goo">
-                                <feGaussianBlur in="SourceGraphic" result="blur" stdDeviation="10"></feGaussianBlur>
-                                <feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 21 -7" result="goo"></feColorMatrix>
-                                <feBlend in2="goo" in="SourceGraphic" result="mix"></feBlend>
-                                </filter>
-                            </defs>
-                            </svg>
-                        </a>
-                    </div>
-                    <div className="GameDevelopment-Section-Right">
-                        <ReactPlayer width={"800px"} height={"450px"} url='https://youtu.be/Sg3cKoGYJwQ' />
                     </div>
                 </div>
 
@@ -390,6 +308,90 @@ function GameDevelopment() {
                     </div>
                 </div>
             </div>
+
+
+            {/*   MagicPeak  */}
+            <div className="GameDevelopment-Section MagicPeak">
+                <div className="GameDevelopment-Section-Left">
+                    <div className="GameDevelopment-Section-Title">MagicPeak</div><br />
+                    <div className="GameDevelopment-Section-Content">I developed this game during my study year at Keimyung University.<br />
+                    This game is a fusion of a Gacha game and a 2D RPG.<br /><br />
+                    In this game, the player takes on the role of a guild leader whose objective is to fight the monsters within 
+                    a tower to prevent them from attacking humans.<br />
+                    In order to do so, the player will have the ability to recruit mages of varying rarity and power to send them 
+                    into battle within the tower.<br />
+                    The player will then need to control their different characters and attempt to complete the dungeon or exit with 
+                    a maximum amount of gold to recruit more powerful characters.
+                    </div><br /><br />
+                    
+                    <a rel="noopener noreferrer" href={"https://github.com/DylanFaure/MagicPeak"} target={"_blank"}>
+                        <button className="blob-btn blob-btn-Github">
+                            <AiFillGithub size={25} /> Github Repository
+                            <span className="blob-btn__inner">
+                                <span className="blob-btn__blobs">
+                                    <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                    <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                    <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                    <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                </span>
+                            </span>
+                        </button>
+                        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style={{ display: "none" }}>
+                        <defs>
+                            <filter id="goo">
+                            <feGaussianBlur in="SourceGraphic" result="blur" stdDeviation="10"></feGaussianBlur>
+                            <feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 21 -7" result="goo"></feColorMatrix>
+                            <feBlend in2="goo" in="SourceGraphic" result="mix"></feBlend>
+                            </filter>
+                        </defs>
+                        </svg>
+                    </a>
+                </div>
+                <div className="GameDevelopment-Section-Right">
+                    <ReactPlayer width={"800px"} height={"450px"} url='https://youtu.be/aDRwfR_ZmiI' />
+                </div>
+            </div>
+
+
+            {/*   TheGreatParty  */}
+            <div className="GameDevelopment-Section TheGreatParty">
+                <div className="GameDevelopment-Section-Left">
+                    <div className="GameDevelopment-Section-Title">TheGreatParty</div><br />
+                    <div className="GameDevelopment-Section-Content">I developed this game during my studies at Epitech as part of a 
+                    Maker Project.<br /><br />
+                    This game is a 2D multiplayer party game inspired by Pico Park game for designs, that consists of several mini-games in which players compete to win.<br />
+                    It features 4 themed mini-games: racing, color, timing, and shooting.
+                    </div><br /><br />
+                    
+                    <a rel="noopener noreferrer" href={"https://faure78.itch.io/thegreatparty"} target={"_blank"}>
+                        <button className="blob-btn blob-btn-Github">
+                            <FaItchIo size={25} /> Itch.io
+                            <span className="blob-btn__inner">
+                                <span className="blob-btn__blobs">
+                                    <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                    <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                    <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                    <span className="blob-btn__blob blob-btn__blob-Github"></span>
+                                </span>
+                            </span>
+                        </button>
+                        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style={{ display: "none" }}>
+                        <defs>
+                            <filter id="goo">
+                            <feGaussianBlur in="SourceGraphic" result="blur" stdDeviation="10"></feGaussianBlur>
+                            <feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 21 -7" result="goo"></feColorMatrix>
+                            <feBlend in2="goo" in="SourceGraphic" result="mix"></feBlend>
+                            </filter>
+                        </defs>
+                        </svg>
+                    </a>
+                </div>
+                <div className="GameDevelopment-Section-Right">
+                    <ReactPlayer width={"800px"} height={"450px"} url='https://youtu.be/Sg3cKoGYJwQ' />
+                </div>
+            </div>
+
+
             <Footer />
         </>
     );
